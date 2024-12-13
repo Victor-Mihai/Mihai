@@ -1,0 +1,50 @@
+nav {
+float: right;
+display: block;
+color:rgb(241, 227, 227);
+text-align:center;
+padding: 5px;
+}
+.button{
+    color: azure;
+    align-items: center;
+    padding-left: 15px;
+}
+.pag-1{
+    text-align:center ;
+    padding-top: 200px;
+    color: aliceblue;
+    font-size:800%;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+.pag-11{
+    text-align: center;
+    padding-top: 0%;
+    text-indent: 300px;
+    color: aliceblue;
+    font-size: 600%;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+footer{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-align: center;
+    color: aliceblue;
+    border-top: 2px solid rgb(255, 251, 251);
+}
+
+.pag-2{
+    color: aliceblue;
+    text-align: center;
+    padding:60px;
+    margin-top: 20%;
+}
+.container{
+    color: aliceblue;
+    padding-top: 10%;
+    text-align: center;
+}
+.col{
+    border: none;
+    margin-left: 5%;
+    margin-right: 5%;
+}
